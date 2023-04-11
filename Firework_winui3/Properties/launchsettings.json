@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Firework_winui3 (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Firework_winui3 (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
